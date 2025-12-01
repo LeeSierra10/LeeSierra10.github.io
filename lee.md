@@ -9,9 +9,11 @@ Soy estudiante de la carrera de Desarrollo de Sistemas de la Información, con e
 
 # Redes Sociales
 <div align= "center"    gap= 11px >
+        <h5>Redes profesionales</h5>
         <a href="https://www.linkedin.com/in/lee-sierra-87a3381b2">
-        <h5 class="sin-linea">Redes sociales</h5>
         <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"> </a>
+        <a>
+        <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"></a>
 
 </div>
 
