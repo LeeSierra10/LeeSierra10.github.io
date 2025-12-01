@@ -13,7 +13,7 @@ Soy estudiante de la carrera de Desarrollo de Sistemas de la Información, con e
         <a href="https://www.linkedin.com/in/lee-sierra-87a3381b2">
         <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"> </a>
         <a>
-        <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"></a>
+        <img src="[https://img.icons8.com/?size=100&id=undefined&format=png&color=000000(https://img.icons8.com/size=100&id=LoL4bFzqmAa0&format=png&color=000000)"</a>
 
 </div>
 
